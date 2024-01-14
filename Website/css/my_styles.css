@@ -12,3 +12,12 @@ table, td, tr {
     border-spacing:20px;
     border-collapse: collapse;
 }
+
+ul { 
+	list-style-type: none; 
+	padding: 0; 
+} 
+li { 
+	text-align: center; 
+} 
+
