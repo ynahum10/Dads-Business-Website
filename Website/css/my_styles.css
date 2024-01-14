@@ -4,3 +4,11 @@
     border-style: solid;
     background-color: black;
 }
+
+table, td, tr {
+    text-align: center;
+    align-items: center;
+    border:1px solid rgb(0, 0, 0);
+    border-spacing:20px;
+    border-collapse: collapse;
+}
