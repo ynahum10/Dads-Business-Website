@@ -25,3 +25,34 @@ li {
     color: #000000;
 }
 
+#colorstrip1 {
+    width: 100%; height: 200px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    background-color: #44dc47;
+}
+
+#colorstrip2 {
+    width: 100%; height: 200px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    background-color: #d2e625;
+}
+
+#colorstrip3 {
+    width: 100%; height: 200px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    background-color: #e42d2d;
+}
+
+#underlayer {
+    z-index: 1;
+    position: relative;
+}
+
+#overlayer {
+    z-index: 2;
+    position: relative;
+}
+
